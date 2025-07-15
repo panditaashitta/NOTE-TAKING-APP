@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Note-Taking-App
 A note taking app built with python and mysql as database.
 
@@ -20,23 +19,8 @@ Creating a GUI application using Tkinter is an easy task. All you need to do is 
 * Add one or more of the above-mentioned widgets to the GUI application.
 * Enter the main event loop to take action against each event triggered by the user.
 
-### Backend
-The application uses sql databases and mysql libraries to connect the databases.
-The backend logic is using simple "CRUD operations" to maintain the applications.
-- Create
-- Read
-- Update
-- Delete
-
-### Workflow:
-- [x] Create a database for notes.
-- [x] Create the files for backend logics with basic CRUD operations.
-- [x] Import the created files to connect them with front end.
-- [x] Create file for GUI using Tkinter components.
-
 ### The application will look like this :
 ![app ui](https://github.com/ShubhamPy/Note-Taking-App/blob/master/app-ui.png?raw=true)
 =======
 # NOTE-TAKING-APP
 This handy note taking application allows users to manage their tasks and store it to database. Built with python using MySQL as database.
->>>>>>> c65d662cea592b14266f5eb378b78352234c07cd
